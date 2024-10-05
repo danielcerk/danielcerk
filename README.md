@@ -1,9 +1,6 @@
 
 <h2 align="center">Olá, sou Daniel Gomes</h2>
 
-![Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l1cG9qOTdsZ2xjZW04YWhxdm9zcjFwb3I4eWhxY2NtN2sxYnZ0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/31ZiEo6UeSyMbuzkcE/giphy.gif)
-
-
 Sou um entusiasta pela linguagem de programação **Python**, desde que comecei a estudar a linguagem desenvolvi uma série de projetos tanto para desktop quanto para web - até cheguei a me aventurar no mobile rs .
 
 Tenho notável conhecimento de aplicações para web, atualmente, construo-as utilizando o framework **Django**, e para o Front-End utilizo a trindade **HTML**, **CSS** e alguns de seus frameworks e **JS**.
