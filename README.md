@@ -24,14 +24,6 @@ Tenho notável conhecimento de aplicações para web, atualmente, construo-as ut
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Projetos
-
-Aqui estão alguns projetos desenvolvidos por mim:
-
-- [Recitei](https://recitei.vercel.app/) é uma rede social para compartilhamento exclusivo de textos, poemas, poesias, mensagens e afins;
-- [Milivro](https://milivro.vercel.app/) é uma plataforma para hospedagem e leitura de livros gratuitos construído utilizando Django;
-- [AdivinheCOMIGO](https://adivinhecomigo.vercel.app/) é um quiz ( ainda em desenvolvimento ) na qual é gerado uma imagem e você deve adivinhar o que ela é em menos de 1 minuto.
-
 
 <div align="center">
 
