@@ -1,7 +1,7 @@
 
 <h2 align="center">Olá, sou Daniel Gomes</h2>
 
-<p align="center">Desensolvendo projetos enquanto aproveito minhas férias. Atualmente, estou trabalhando na <a href="https://github.com/danielcerk/UniverCity">UniverCity</a> , uma comunidade de estudante para estudante feita em React Js e Django.</p>
+<p align="center">Desenvolvendo projetos enquanto aproveito minhas férias. Atualmente, estou trabalhando na <a href="https://github.com/danielcerk/UniverCity">UniverCity</a> , uma comunidade de estudante para estudante feita em React Js e Django.</p>
 
 <div align="center">
 
